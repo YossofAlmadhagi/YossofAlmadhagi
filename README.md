@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Cybersecurity Workspace"  width="40%"/><br> 
 
 <h2>🛡️ It's me, Yossof Salah!</h2>
-<p><em>Cybersecurity Student & Ethical Hacker in Training</em></p>
+<p><em></em>Programming</p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YossofAlmadhagi&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==)
