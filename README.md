@@ -1,5 +1,5 @@
 <div align="center" width="50">
-
+![Profile](assets/my-photo.png)
 <img src="https://github.com/YossofAlmadhagi/YossofAlmadhagi/blob/main/prof.png" alt="Hello Coders" width="45%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Cybersecurity Workspace"  width="40%"/><br> 
 
