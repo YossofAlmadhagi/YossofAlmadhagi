@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/YossofAlmadhagi/YossofAlmadhagi/blob/main/assets/my-photo.png" alt="Hello Coders" width="45%"/> <br>
+<img src="#g" alt=""/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Cybersecurity Workspace"  width="40%"/><br> 
 
 <h2>🛡️ It's me, Yossof Salah!</h2>
