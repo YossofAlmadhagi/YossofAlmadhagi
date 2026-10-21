@@ -1,44 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Yossof Al-Madhagi — Cybersecurity student</title>
-  <desc id="desc">Dark navy profile banner with a cyan signature mark and subtle circuit pattern.</desc>
+  <title id="title">Yossof Al-Madhagi</title>
+  <desc id="desc">Dark blue personal banner with a cyan YM monogram, editorial typography, and a subtle orbit motif.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.55" stop-color="#0a1c31"/>
-      <stop offset="1" stop-color="#112348"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06101d"/>
+      <stop offset=".58" stop-color="#0b1d32"/>
+      <stop offset="1" stop-color="#102a45"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#26d6d7" stop-opacity=".24"/>
-      <stop offset="1" stop-color="#26d6d7" stop-opacity="0"/>
-    </radialGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#52f2df"/>
-      <stop offset="1" stop-color="#54a9ff"/>
+      <stop offset="0" stop-color="#6cf7df"/>
+      <stop offset="1" stop-color="#53aaff"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#8ca4c7" stroke-opacity=".075" stroke-width="1"/>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#28c8d2" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#28c8d2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9bbad7" stroke-opacity=".055"/>
     </pattern>
-    <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
   </defs>
-  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
-  <circle cx="970" cy="155" r="230" fill="url(#glow)"/>
-  <circle cx="990" cy="120" r="116" fill="#1fbcc9" opacity=".11" filter="url(#soft)"/>
-  <path d="M782 44H1138M742 296H1146" stroke="#5bdcdb" stroke-opacity=".14"/>
-  <path d="M835 72h95l24 24h86M780 242h112l32-32h150M900 281h130l27-27h88" fill="none" stroke="#6eece4" stroke-opacity=".22" stroke-width="2"/>
-  <g fill="#76eae3" opacity=".65"><circle cx="835" cy="72" r="4"/><circle cx="1040" cy="96" r="4"/><circle cx="780" cy="242" r="4"/><circle cx="1074" cy="210" r="4"/><circle cx="900" cy="281" r="4"/></g>
-  <rect x="64" y="56" width="74" height="74" rx="17" fill="#0c2838" stroke="url(#accent)" stroke-width="2"/>
-  <text x="75" y="106" fill="#70e8e3" font-size="30" font-weight="800" letter-spacing="-3" font-family="Segoe UI, Arial, sans-serif">YM</text>
-  <text x="164" y="85" fill="#65dddf" font-size="15" font-weight="700" letter-spacing="5" font-family="Segoe UI, Arial, sans-serif">YOSSOF / SECURITY JOURNEY</text>
-  <text x="62" y="213" fill="#f2f7ff" font-size="57" font-weight="800" letter-spacing="2" font-family="Segoe UI, Arial, sans-serif">YOSSOF AL-MADHAGI</text>
-  <rect x="64" y="233" width="64" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="147" y="240" fill="#b8d0e7" font-size="18" font-weight="600" letter-spacing="3" font-family="Segoe UI, Arial, sans-serif">CYBERSECURITY STUDENT</text>
-  <text x="65" y="292" fill="#87a9c7" font-size="14" letter-spacing="3" font-family="Segoe UI, Arial, sans-serif">LEARN  /  BUILD  /  IMPROVE</text>
-  <g transform="translate(1025 153)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M0-55 52-35v39c0 39-21 64-52 82-31-18-52-43-52-82v-39Z" stroke-width="3" opacity=".9"/>
-    <path d="M-15-6v-13a15 15 0 0 1 30 0v13M-22-6h44v37h-44Z" stroke-width="3"/>
-    <circle cy="11" r="3.5" fill="#6ae6e1" stroke="none"/>
-    <path d="M0 14v7" stroke-width="3"/>
+  <rect width="1200" height="340" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <circle cx="1020" cy="170" r="260" fill="url(#halo)"/>
+  <path d="M55 48H690M55 292H1145" stroke="#74d8db" stroke-opacity=".18"/>
+  <rect x="56" y="65" width="65" height="65" rx="12" fill="#0d2b3c" stroke="url(#accent)" stroke-width="2"/>
+  <text x="66" y="109" fill="#77eee0" font-size="29" font-weight="800" letter-spacing="-3" font-family="Segoe UI, Arial, sans-serif">YM</text>
+  <text x="145" y="92" fill="#6ce8df" font-size="13" font-weight="700" letter-spacing="4" font-family="Segoe UI, Arial, sans-serif">CYBERSECURITY / DEVELOPMENT</text>
+  <text x="145" y="116" fill="#8aa9c0" font-size="12" letter-spacing="3" font-family="Segoe UI, Arial, sans-serif">LEARNING IN PUBLIC</text>
+  <text x="55" y="218" fill="#f4f8ff" font-size="62" font-weight="800" letter-spacing="1.5" font-family="Segoe UI, Arial, sans-serif">YOSSOF AL-MADHAGI</text>
+  <rect x="57" y="239" width="72" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="147" y="248" fill="#c1d5e8" font-size="16" font-weight="600" letter-spacing="2.6" font-family="Segoe UI, Arial, sans-serif">STUDENT  ·  BUILDER  ·  EXPLORER</text>
+  <text x="56" y="316" fill="#90aec6" font-size="12" letter-spacing="2.2" font-family="Segoe UI, Arial, sans-serif">YEMEN  /  APPLICATION SECURITY  /  CLOUD SECURITY</text>
+  <g transform="translate(1020 158)" fill="none" stroke="url(#accent)">
+    <circle r="113" stroke-width="1.4" opacity=".32"/>
+    <circle r="80" stroke-width="1.4" opacity=".58"/>
+    <circle r="48" stroke-width="1.6" opacity=".82"/>
+    <path d="M-131 0H131M0-131V131" stroke-width="1" opacity=".2"/>
+    <path d="M-62-49l62 97 62-97" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="-79" cy="-6" r="5" fill="#6ce8df" stroke="none"/>
+    <circle cx="78" cy="19" r="5" fill="#55b7f0" stroke="none"/>
+    <circle cx="7" cy="-113" r="4" fill="#6ce8df" stroke="none"/>
   </g>
 </svg>
 
