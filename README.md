@@ -1,26 +1,38 @@
-# Yossof Salah
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Yossof Al-Madhagi — Cybersecurity student" width="100%" />
+</p>
 
-Cybersecurity student focused on application security and network security.
+<p align="center">
+  <strong>Cybersecurity student · Software builder · Based in Yemen</strong><br />
+  Learning how software is built, how it fails, and how to make it safer.
+</p>
 
-طالب أمن سيبراني أتعلم أمن التطبيقات والشبكات وأبني أدوات صغيرة لتطبيق ما أتعلمه.
+---
 
-I build small tools to explore how software protects data and how security choices affect real users. I document what each project does, how to run it, and its current limitations.
+### About me
 
-## Featured project
+I'm **Yossof Al-Madhagi**, studying for a bachelor's degree in cybersecurity. I enjoy programming and learning through hands-on practice. Right now, I'm strengthening my foundations in **Python, Linux, networking, and software development**.
 
-- [StegoNode](https://github.com/YossofAlmadhagi/StegoNode) — a Python desktop application for hiding encrypted files inside image carriers. See its README for setup instructions, supported formats, and current limitations.
+I'm interested in the intersection of **application security, web security, and cloud security**. These are directions I'm working toward, not specialties I claim to have mastered. I'm still exploring where my strengths fit best.
 
-## Tools I use
+### My learning path
 
-Python · Java · C++ · Linux · Bash · Git
+| Now | Building toward |
+| :--- | :--- |
+| Programming fundamentals, Linux, and networking | Secure software development, application and web security, then cloud security |
 
-## Current focus
+I keep a public record of what I study, practice, and learn from in **[Cybersecurity Journey](https://github.com/YossofAlmadhagi/Cybersecurity-Journey)**. It is a learning log in progress, with room for both progress and mistakes.
 
-- Application and network security fundamentals
-- Writing clearer tests and documentation for my projects
-- Improving the security and usability of StegoNode
+### Technologies I've used
 
-## Connect
+**Languages:** Python · Java · C++ · Dart · JavaScript · HTML · CSS  
+**Frameworks:** Flutter
 
-Find my public work and contact options on [my GitHub profile](https://github.com/YossofAlmadhagi).
+My experience varies across these technologies; the list describes what I've worked with, not a claim of equal proficiency in each one.
+
+### Connect
+
+I'm open to educational collaborations and conversations about software and security. Reach me by [email](mailto:azannfrindsmy@gmail.com).
+
+<p align="center"><sub>Learn deliberately · Build openly · Improve continuously</sub></p>
 
