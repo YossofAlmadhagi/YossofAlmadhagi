@@ -1,33 +1,26 @@
-<div align="center" width="50">
+# Yossof Salah
 
-<img src="/assets/My-photos.jpg" alt="Cybersecurity Workspace"  width="80%"/><br> 
-<img src="#g" alt=""/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Cybersecurity Workspace"  width="40%"/><br> 
+Cybersecurity student focused on application security and network security.
 
-<h2>🛡️ It's me, Yossof Salah!</h2>
-<p><em></em>CyberScurity Student</p>
+طالب أمن سيبراني أتعلم أمن التطبيقات والشبكات وأبني أدوات صغيرة لتطبيق ما أتعلمه.
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YossofAlmadhagi&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azannfrindsmy@gmail.com)
-</div>
+I build small tools to explore how software protects data and how security choices affect real users. I document what each project does, how to run it, and its current limitations.
 
-<hr></hr>
+## Featured project
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-blue)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+- [StegoNode](https://github.com/YossofAlmadhagi/StegoNode) — a Python desktop application for hiding encrypted files inside image carriers. See its README for setup instructions, supported formats, and current limitations.
 
-```python
-# My Profile Organization
+## Tools I use
 
-class YossofSalah(Cybersecurity):
-    def __init__(self):
-        self.username = "YossofAlmadhagi"
-        self.languages = ["Python", "Java", "C++"]
-        self.current_focus = "Penetration Testing & Network Security"
+Python · Java · C++ · Linux · Bash · Git
+
+## Current focus
+
+- Application and network security fundamentals
+- Writing clearer tests and documentation for my projects
+- Improving the security and usability of StegoNode
+
+## Connect
+
+Find my public work and contact options on [my GitHub profile](https://github.com/YossofAlmadhagi).
+
