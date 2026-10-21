@@ -1,26 +1,41 @@
-# Yossof Salah
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Yossof Salah — Digital Signature | Cybersecurity Student" width="100%" />
+</p>
 
-Cybersecurity student focused on application security and network security.
+<p align="center">
+  <strong>Cybersecurity student · Building with Python, Java &amp; C++</strong><br />
+  طالب أمن سيبراني أتعلم، أبني، وأوثّق ما أتعلمه في الأمن والبرمجة.
+</p>
 
-طالب أمن سيبراني أتعلم أمن التطبيقات والشبكات وأبني أدوات صغيرة لتطبيق ما أتعلمه.
+---
 
-I build small tools to explore how software protects data and how security choices affect real users. I document what each project does, how to run it, and its current limitations.
+### 01 / About me · نبذة عني
 
-## Featured project
+I'm Yossof Salah. My current focus is penetration testing and network security. I use my projects to turn what I learn into working software, then improve their tests, documentation, and usability.
 
-- [StegoNode](https://github.com/YossofAlmadhagi/StegoNode) — a Python desktop application for hiding encrypted files inside image carriers. See its README for setup instructions, supported formats, and current limitations.
+أنا يوسف صلاح، أركز حاليًا على اختبار الاختراق وأمن الشبكات، وأستخدم مشاريعي لتطبيق ما أتعلمه عمليًا.
 
-## Tools I use
+```python
+class YossofSalah:
+    role = "Cybersecurity Student"
+    focus = ("Penetration Testing", "Network Security")
+    languages = ("Python", "Java", "C++")
+    building = "StegoNode"
+```
 
-Python · Java · C++ · Linux · Bash · Git
+### 02 / Featured work · مشروع مميز
 
-## Current focus
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **StegoNode** | Python desktop app for concealing encrypted files in image carriers. | [Code & setup guide](https://github.com/YossofAlmadhagi/StegoNode) |
 
-- Application and network security fundamentals
-- Writing clearer tests and documentation for my projects
-- Improving the security and usability of StegoNode
+### 03 / Toolkit · الأدوات
 
-## Connect
+`Python` `Java` `C++` `Linux` `Bash` `Git` `Kali Linux`
 
-Find my public work and contact options on [my GitHub profile](https://github.com/YossofAlmadhagi).
+### 04 / Connect · تواصل
+
+[Email](mailto:azannfrindsmy@gmail.com) · [Instagram](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==) · [GitHub repositories](https://github.com/YossofAlmadhagi?tab=repositories)
+
+<p align="center"><sub>LEARN / BUILD / SECURE</sub></p>
 
