@@ -11,23 +11,23 @@
 
 ### 01 / About me · نبذة عني
 
-I'm Yossof Salah. My current focus is penetration testing and network security. I use my projects to turn what I learn into working software, then improve their tests, documentation, and usability.
+I'm Yossof Salah. My current focus is penetration testing and network security. I learn by building, testing, and documenting practical security exercises.
 
-أنا يوسف صلاح، أركز حاليًا على اختبار الاختراق وأمن الشبكات، وأستخدم مشاريعي لتطبيق ما أتعلمه عمليًا.
+أنا يوسف صلاح، أركز حاليًا على اختبار الاختراق وأمن الشبكات، وأطبّق ما أتعلمه عبر تجارب عملية موثقة.
 
 ```python
 class YossofSalah:
     role = "Cybersecurity Student"
     focus = ("Penetration Testing", "Network Security")
     languages = ("Python", "Java", "C++")
-    building = "StegoNode"
 ```
 
-### 02 / Featured work · مشروع مميز
+### 02 / Current focus · مجالات التركيز
 
-| Project | What it does | Explore |
+| Area | What I'm exploring |
 | :--- | :--- | :--- |
-| **StegoNode** | Python desktop app for concealing encrypted files in image carriers. | [Code & setup guide](https://github.com/YossofAlmadhagi/StegoNode) |
+| **Penetration testing** | Understanding how weaknesses are found, verified, and reported responsibly. |
+| **Network security** | Studying protocols, traffic, and practical defensive controls. |
 
 ### 03 / Toolkit · الأدوات
 
@@ -35,7 +35,7 @@ class YossofSalah:
 
 ### 04 / Connect · تواصل
 
-[Email](mailto:azannfrindsmy@gmail.com) · [Instagram](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==) · [GitHub repositories](https://github.com/YossofAlmadhagi?tab=repositories)
+[Email](mailto:azannfrindsmy@gmail.com) · [Instagram](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==)
 
 <p align="center"><sub>LEARN / BUILD / SECURE</sub></p>
 
