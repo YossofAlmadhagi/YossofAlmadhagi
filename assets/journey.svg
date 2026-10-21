@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title">
+<title id="title">Cybersecurity Journey — roadmap, practice, progress</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10283b"/><stop offset="1" stop-color="#0a192b"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="208" rx="18" fill="url(#bg)" stroke="#2a5062"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="42" y="45" fill="#7ce7d4" font-size="13" font-weight="600" letter-spacing="3">THE LEARNING LOG</text>
+<text x="40" y="104" fill="#f1f6fc" font-size="39" font-weight="700">Cybersecurity Journey</text>
+<text x="42" y="143" fill="#b5c8da" font-size="20">One concept. One experiment. One step forward.</text>
+<text x="42" y="181" fill="#7fa1bb" font-size="14" letter-spacing="2">ROADMAP  /  PRACTICE  /  PROGRESS</text>
+</g>
+<path d="M790 145h73l42-53h90l42-30h104" fill="none" stroke="#6be8ce" stroke-opacity=".8" stroke-width="3"/>
+<path d="M790 157h73l42-53h90l42-30h104" fill="none" stroke="#3a6f87" stroke-opacity=".35"/>
+<g fill="#10283b" stroke="#77ebd5" stroke-width="3"><circle cx="863" cy="145" r="6"/><circle cx="905" cy="92" r="6"/><circle cx="995" cy="92" r="6"/><circle cx="1037" cy="62" r="6"/></g>
+<rect x="1084" y="119" width="66" height="51" rx="12" fill="#214453"/>
+<path d="M1104 144h25m-9-9 9 9-9 9" stroke="#a3f3df" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

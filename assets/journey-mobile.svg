@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="Follow Cybersecurity Journey">
+<rect x="1" y="1" width="638" height="248" rx="18" fill="#10283b" stroke="#365469"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="30" y="45" fill="#7ce7d4" font-size="18" letter-spacing="2">THE LEARNING LOG</text>
+<text x="28" y="109" fill="#f1f6fc" font-size="42" font-weight="700">Cybersecurity Journey</text>
+<text x="30" y="152" fill="#b5c8da" font-size="23">One step forward, documented.</text>
+<text x="30" y="210" fill="#8badc6" font-size="19" letter-spacing="1">ROADMAP / PRACTICE / PROGRESS</text></g>
+<path d="M550 207h35m-11-11 11 11-11 11" stroke="#8becd8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
