@@ -1,41 +1,38 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Yossof Salah — Digital Signature | Cybersecurity Student" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Yossof Al-Madhagi — Cybersecurity student" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Cybersecurity student · Building with Python, Java &amp; C++</strong><br />
-  طالب أمن سيبراني أتعلم، أبني، وأوثّق ما أتعلمه في الأمن والبرمجة.
+  <strong>Cybersecurity student · Software builder · Based in Yemen</strong><br />
+  Learning how software is built, how it fails, and how to make it safer.
 </p>
 
 ---
 
-### 01 / About me · نبذة عني
+### About me
 
-I'm Yossof Salah. My current focus is penetration testing and network security. I learn by building, testing, and documenting practical security exercises.
+I'm **Yossof Al-Madhagi**, studying for a bachelor's degree in cybersecurity. I enjoy programming and learning through hands-on practice. Right now, I'm strengthening my foundations in **Python, Linux, networking, and software development**.
 
-أنا يوسف صلاح، أركز حاليًا على اختبار الاختراق وأمن الشبكات، وأطبّق ما أتعلمه عبر تجارب عملية موثقة.
+I'm interested in the intersection of **application security, web security, and cloud security**. These are directions I'm working toward, not specialties I claim to have mastered. I'm still exploring where my strengths fit best.
 
-```python
-class YossofSalah:
-    role = "Cybersecurity Student"
-    focus = ("Penetration Testing", "Network Security")
-    languages = ("Python", "Java", "C++")
-```
+### My learning path
 
-### 02 / Current focus · مجالات التركيز
+| Now | Building toward |
+| :--- | :--- |
+| Programming fundamentals, Linux, and networking | Secure software development, application and web security, then cloud security |
 
-| Area | What I'm exploring |
-| :--- | :--- | :--- |
-| **Penetration testing** | Understanding how weaknesses are found, verified, and reported responsibly. |
-| **Network security** | Studying protocols, traffic, and practical defensive controls. |
+I keep a public record of what I study, practice, and learn from in **[Cybersecurity Journey](https://github.com/YossofAlmadhagi/-Cybersecurity-Journey)**. It is a learning log in progress, with room for both progress and mistakes.
 
-### 03 / Toolkit · الأدوات
+### Technologies I've used
 
-`Python` `Java` `C++` `Linux` `Bash` `Git` `Kali Linux`
+**Languages:** Python · Java · C++ · Dart · JavaScript · HTML · CSS  
+**Frameworks:** Flutter
 
-### 04 / Connect · تواصل
+My experience varies across these technologies; the list describes what I've worked with, not a claim of equal proficiency in each one.
 
-[Email](mailto:azannfrindsmy@gmail.com) · [Instagram](https://www.instagram.com/yossof_github?igsh=MWJ6Z2R0eTdwZmJxeA==)
+### Connect
 
-<p align="center"><sub>LEARN / BUILD / SECURE</sub></p>
+I'm open to educational collaborations and conversations about software and security. Reach me by [email](mailto:azannfrindsmy@gmail.com).
+
+<p align="center"><sub>Learn deliberately · Build openly · Improve continuously</sub></p>
 
