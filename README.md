@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#learning-in-public">Learning journey</a> &nbsp; / &nbsp;
-  <a href="#github-activity">Activity</a> &nbsp; / &nbsp;
-  <a href="mailto:azannfrindsmy@gmail.com">Contact</a>
+  <a href="#about" title="About"><img src="assets/nav/about.svg" width="32" height="32" alt="About" /></a> &nbsp;&nbsp;&nbsp; 
+  <a href="#toolkit" title="Toolkit"><img src="assets/nav/toolkit.svg" width="32" height="32" alt="Toolkit" /></a> &nbsp;&nbsp;&nbsp; 
+  <a href="#learning-in-public" title="Learning journey"><img src="assets/nav/journey.svg" width="32" height="32" alt="Learning journey" /></a> &nbsp;&nbsp;&nbsp; 
+  <a href="#github-activity" title="Activity"><img src="assets/nav/activity.svg" width="32" height="32" alt="Activity" /></a> &nbsp;&nbsp;&nbsp; 
+  <a href="mailto:azannfrindsmy@gmail.com" title="Contact"><img src="assets/nav/contact.svg" width="32" height="32" alt="Contact" /></a>
 </p>
 
 ## About
