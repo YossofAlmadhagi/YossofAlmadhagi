@@ -21,7 +21,7 @@ I'm interested in the intersection of **application security, web security, and 
 | :--- | :--- |
 | Programming fundamentals, Linux, and networking | Secure software development, application and web security, then cloud security |
 
-I keep a public record of what I study, practice, and learn from in **[Cybersecurity Journey](https://github.com/YossofAlmadhagi/-Cybersecurity-Journey)**. It is a learning log in progress, with room for both progress and mistakes.
+I keep a public record of what I study, practice, and learn from in **[Cybersecurity Journey](https://github.com/YossofAlmadhagi/Cybersecurity-Journey)**. It is a learning log in progress, with room for both progress and mistakes.
 
 ### Technologies I've used
 
